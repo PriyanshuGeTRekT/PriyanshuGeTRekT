@@ -2,6 +2,10 @@
 <h3 align="center">Full-Stack Developer | AI Engineering Enthusiast | Cloud & DevOps Learner</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PriyanshuGeTRekT&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/priyanshuyadav98/">
     <img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Yadav-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -15,55 +19,52 @@
 ## 👋 About Me
 
 - 👨‍💻 Full-stack developer building real-world production applications  
-- ⚙️ Experience with React, Node.js, Express, MongoDB  
-- ☁️ Deployed apps on AWS (EC2, Amplify) with CI/CD pipelines  
-- 🔐 Comfortable with Linux, SSH, Nginx, server setup  
-- 🤖 Exploring AI Agents, RAG, LLM workflows  
-- 🧠 Strong with debugging, Git workflows, merges & conflict resolution  
+- ⚙️ React, Node.js, Express, MongoDB  
+- ☁️ AWS (EC2, Amplify), CI/CD  
+- 🔐 Linux, SSH, Nginx  
+- 🤖 AI Agents, RAG, LLM workflows  
+- 🧠 Debugging, Git workflows, conflict resolution  
 
 ---
 
-## 🧠 Tech Stack
+## 🧰 Tech Stack
 
-### 🎨 Frontend
-- React.js  
-- TypeScript  
-- Tailwind CSS  
-- HTML, CSS, JavaScript  
-- Vite  
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-### 🛠 Backend
-- Node.js  
-- Express.js  
-- REST APIs  
-- Authentication & Middleware  
-- SMTP / Email services  
+### 🛠 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)  
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)  
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
 
-### 🗄 Database
-- MongoDB  
-- Schema Design  
-- Indexing  
-- Aggregation Pipelines  
+### 🗄 Database  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-### ☁️ DevOps & Cloud
-- AWS EC2  
-- AWS Amplify  
-- CI/CD Pipelines  
-- Nginx  
-- Docker (local dev)  
-- Linux (systemd, services)  
+### ☁️ DevOps & Cloud  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
 ## 🧪 Featured Project
 
 ### Temple Whisperer – CRM & Platform
-- 🔹 Full-stack app (React + Node + MongoDB)  
-- 🔹 CRM dashboards with filters, routing, admin tools  
-- 🔹 Authentication & secure APIs  
-- 🔹 Production deployment on AWS  
-- 🔗 Repo: https://github.com/PriyanshuGeTRekT/temple-whisperer-co-77f0e080  
-- 🔗 Mirror Repo: https://github.com/msk1803/temple-whisperer-co-77f0e080  
+
+- Full-stack app (React + Node + MongoDB)  
+- CRM dashboards, filters, admin tools  
+- Authentication & secure APIs  
+- Production deployment on AWS  
+
+🔗 Repo: https://github.com/PriyanshuGeTRekT/temple-whisperer-co-77f0e080  
+🔗 Mirror Repo: https://github.com/msk1803/temple-whisperer-co-77f0e080  
 
 ---
 
@@ -76,22 +77,6 @@
 - ✔ Backend APIs  
 - ✔ Deployment pipelines  
 - ✔ Production debugging & fixes  
-
----
-
-## 🔁 Dev Workflow
-
-**Git**
-- Feature branches  
-- Rebase & merge  
-- Conflict resolution  
-- Clean commit history  
-
-**Infra**
-- Linux servers  
-- SSH keys  
-- Nginx reverse proxy  
-- Environment-based builds  
 
 ---
 
