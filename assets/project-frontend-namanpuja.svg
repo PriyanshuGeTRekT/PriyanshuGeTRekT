@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="410" height="190" viewBox="0 0 410 190" role="img" aria-label="namanpuja.com: Production booking platform for Vedic pujas: a Next.js storefront, an Express + TypeScript API, an admin console and a CRM that syncs every booking." font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+<title>namanpuja.com: Production booking platform for Vedic pujas: a Next.js storefront, an Express + TypeScript API, an admin console and a CRM that syncs every booking.</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060817"/><stop offset="1" stop-color="#0b0e25"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".55"/><stop offset=".45" stop-color="#a78bfa" stop-opacity=".28"/><stop offset="1" stop-color="#f472b6" stop-opacity=".5"/></linearGradient>
+  <linearGradient id="hr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity=".5"/><stop offset=".5" stop-color="#a78bfa" stop-opacity=".22"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></linearGradient>
+  <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+  <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <radialGradient id="nv"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.19"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+  <radialGradient id="nc"><stop offset="0" stop-color="#0891b2" stop-opacity="0.17"/><stop offset="1" stop-color="#0891b2" stop-opacity="0"/></radialGradient>
+  <radialGradient id="np"><stop offset="0" stop-color="#db2777" stop-opacity="0.11"/><stop offset="1" stop-color="#db2777" stop-opacity="0"/></radialGradient>
+  <clipPath id="clip"><rect width="410" height="190" rx="18"/></clipPath>
+  
+  <linearGradient id="cm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <radialGradient id="corner"><stop offset="0" stop-color="#22d3ee" stop-opacity=".26"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+.s1{animation:tw 3.4s ease-in-out infinite}
+.s2{animation:tw 4.9s ease-in-out -1.7s infinite}
+.s3{animation:tw 6.3s ease-in-out -3.1s infinite}
+@keyframes tw{0%,100%{opacity:.18}50%{opacity:1}}
+.neb{animation:drift 26s ease-in-out infinite alternate}
+.neb2{animation:drift 34s ease-in-out -9s infinite alternate-reverse}
+@keyframes drift{from{transform:translate(-18px,-8px)}to{transform:translate(22px,12px)}}
+.scan{animation:scan 7s cubic-bezier(.45,0,.55,1) infinite}
+@keyframes scan{0%{transform:translateX(0);opacity:0}8%{opacity:1}92%{opacity:1}100%{transform:translateX(var(--scan,276px));opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.comet{animation:comet 5.5s cubic-bezier(.45,0,.55,1) infinite}
+@keyframes comet{0%{transform:translateX(-90px);opacity:0}12%{opacity:1}88%{opacity:1}100%{transform:translateX(410px);opacity:0}}
+.go{animation:go 2.6s ease-in-out infinite}
+@keyframes go{0%,100%{transform:translate(0,0)}50%{transform:translate(2px,-2px)}}
+</style>
+<g clip-path="url(#clip)">
+  <rect width="410" height="190" fill="url(#bg)"/>
+  <ellipse class="neb" cx="336.2" cy="19" rx="147.6" ry="150" fill="url(#nv)"/>
+  <ellipse class="neb2" cx="32.8" cy="180.5" rx="139.4" ry="140" fill="url(#nc)"/>
+  <ellipse class="neb" cx="205" cy="199.5" rx="123" ry="110" fill="url(#np)"/>
+  <circle cx="47.43" cy="136.78" r="1.08" fill="#ffffff" opacity="0.65"/><circle cx="66.12" cy="163.36" r="1.54" fill="#ffffff" opacity="0.5"/><circle cx="315.3" cy="37.93" r="1.03" fill="#dbe4ff" opacity="0.27"/><circle class="s2" cx="119.55" cy="129.06" r="0.38" fill="#dbe4ff"/><circle cx="143.38" cy="39.68" r="1.25" fill="#dbe4ff" opacity="0.53"/><circle cx="358.61" cy="2.79" r="0.75" fill="#dbe4ff" opacity="0.6"/><circle class="s2" cx="237.02" cy="112.59" r="0.46" fill="#dbe4ff"/><circle class="s3" cx="360.95" cy="66.48" r="0.54" fill="#dbe4ff"/><circle class="s1" cx="239.11" cy="80.44" r="1.51" fill="#dbe4ff"/><circle cx="232.78" cy="144.9" r="0.76" fill="#dbe4ff" opacity="0.67"/><circle class="s3" cx="56.35" cy="89.49" r="0.39" fill="#ddd6fe"/><circle class="s1" cx="109.71" cy="59.43" r="0.41" fill="#dbe4ff"/><circle cx="169.32" cy="5.89" r="0.92" fill="#dbe4ff" opacity="0.53"/><circle class="s2" cx="163.18" cy="165.91" r="0.35" fill="#dbe4ff"/><circle class="s1" cx="109.09" cy="54.05" r="0.35" fill="#dbe4ff"/><circle class="s3" cx="206.96" cy="43.71" r="0.41" fill="#ddd6fe"/>
+  
+  <circle cx="390" cy="14" r="130" fill="url(#corner)"/>
+  <rect class="comet" x="0" y="0" width="90" height="2.5" fill="url(#cm)"/>
+  <circle cx="29" cy="30.5" r="4.5" fill="#73a3d8"/><text x="40" y="34.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#9aa3cc">TypeScript</text>
+  
+  <text x="24" y="70" font-size="18.5" font-weight="700" fill="#eceeff">namanpuja.com</text>
+  <text x="24" y="94" font-size="12.5" fill="#9aa3cc">Production booking platform for Vedic pujas: a Next.js</text><text x="24" y="112" font-size="12.5" fill="#9aa3cc">storefront, an Express + TypeScript API, an admin</text><text x="24" y="130" font-size="12.5" fill="#9aa3cc">console and a CRM that syncs every booking.</text>
+  <rect x="24" y="144" width="64.2" height="22" rx="11" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".38"/><text x="56.1" y="159" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#eceeff" opacity=".9">Next.js</text><rect x="95.2" y="144" width="64.2" height="22" rx="11" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".38"/><text x="127.3" y="159" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#eceeff" opacity=".9">Express</text><rect x="166.4" y="144" width="90.6" height="22" rx="11" fill="#22d3ee" fill-opacity=".08" stroke="#22d3ee" stroke-opacity=".38"/><text x="211.7" y="159" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#eceeff" opacity=".9">react-admin</text>
+  <g class="go"><path d="M372 162l9-9m-7 0h7v7" fill="none" stroke="#22d3ee" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+<rect x=".75" y=".75" width="408.5" height="188.5" rx="17.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+</svg>

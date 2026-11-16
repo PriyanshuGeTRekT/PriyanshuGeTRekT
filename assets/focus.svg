@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="276" viewBox="0 0 840 276" role="img" aria-label="What I build: AI Engineering (Multi-agent graphs in LangGraph; Hybrid-search RAG, cited answers; Tool calling, MCP, human review; Speech, OCR and vision pipelines). LLMOps &amp; Evals (Eval harnesses, regression suites; OpenTelemetry traces per step; Structured output + validation; Any provider, hosted or local). Full-Stack &amp; Desktop (Next.js, React, TypeScript UIs; Node + FastAPI, Postgres, Redis; Electron, Tauri, Rust, Swift; Docker, CI/CD, cloud deploys)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+<title>What I build: AI Engineering (Multi-agent graphs in LangGraph; Hybrid-search RAG, cited answers; Tool calling, MCP, human review; Speech, OCR and vision pipelines). LLMOps &amp; Evals (Eval harnesses, regression suites; OpenTelemetry traces per step; Structured output + validation; Any provider, hosted or local). Full-Stack &amp; Desktop (Next.js, React, TypeScript UIs; Node + FastAPI, Postgres, Redis; Electron, Tauri, Rust, Swift; Docker, CI/CD, cloud deploys)</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060817"/><stop offset="1" stop-color="#0b0e25"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".55"/><stop offset=".45" stop-color="#a78bfa" stop-opacity=".28"/><stop offset="1" stop-color="#f472b6" stop-opacity=".5"/></linearGradient>
+  <linearGradient id="hr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity=".5"/><stop offset=".5" stop-color="#a78bfa" stop-opacity=".22"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></linearGradient>
+  <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+  <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <radialGradient id="nv"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.27"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+  <radialGradient id="nc"><stop offset="0" stop-color="#0891b2" stop-opacity="0.24"/><stop offset="1" stop-color="#0891b2" stop-opacity="0"/></radialGradient>
+  <radialGradient id="np"><stop offset="0" stop-color="#db2777" stop-opacity="0.16"/><stop offset="1" stop-color="#db2777" stop-opacity="0"/></radialGradient>
+  <clipPath id="clip"><rect width="840" height="276" rx="18"/></clipPath>
+  <linearGradient id="top0" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient><linearGradient id="top1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient><linearGradient id="top2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f472b6"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+.s1{animation:tw 3.4s ease-in-out infinite}
+.s2{animation:tw 4.9s ease-in-out -1.7s infinite}
+.s3{animation:tw 6.3s ease-in-out -3.1s infinite}
+@keyframes tw{0%,100%{opacity:.18}50%{opacity:1}}
+.neb{animation:drift 26s ease-in-out infinite alternate}
+.neb2{animation:drift 34s ease-in-out -9s infinite alternate-reverse}
+@keyframes drift{from{transform:translate(-18px,-8px)}to{transform:translate(22px,12px)}}
+.scan{animation:scan 7s cubic-bezier(.45,0,.55,1) infinite}
+@keyframes scan{0%{transform:translateX(0);opacity:0}8%{opacity:1}92%{opacity:1}100%{transform:translateX(var(--scan,706px));opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.pulse{animation:pulse 3.2s ease-in-out infinite}
+@keyframes pulse{0%{stroke-dashoffset:76}55%,100%{stroke-dashoffset:0}}
+.l1{animation:float 3.6s ease-in-out infinite}
+.l2{animation:float 3.6s ease-in-out -.5s infinite}
+.l3{animation:float 3.6s ease-in-out -1s infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}
+</style>
+<g clip-path="url(#clip)">
+  <rect width="840" height="276" fill="url(#bg)"/>
+  <ellipse class="neb" cx="688.8" cy="27.6" rx="302.4" ry="151.8" fill="url(#nv)"/>
+  <ellipse class="neb2" cx="67.2" cy="262.2" rx="285.6" ry="140" fill="url(#nc)"/>
+  <ellipse class="neb" cx="420" cy="289.8" rx="252" ry="110.4" fill="url(#np)"/>
+  <circle class="s1" cx="363.12" cy="123.38" r="0.41" fill="#dbe4ff"/><circle class="s2" cx="749.27" cy="240.14" r="0.45" fill="#ffffff"/><circle cx="158.64" cy="93.9" r="0.74" fill="#dbe4ff" opacity="0.66"/><circle class="s1" cx="173.38" cy="153" r="1.13" fill="#dbe4ff"/><circle class="s2" cx="194.03" cy="151.71" r="0.55" fill="#dbe4ff"/><circle cx="675.81" cy="247.94" r="0.79" fill="#a5f3fc" opacity="0.4"/><circle cx="320.66" cy="85.97" r="0.77" fill="#dbe4ff" opacity="0.67"/><circle class="s3" cx="488.82" cy="207.92" r="0.43" fill="#ddd6fe"/><circle cx="667.64" cy="176.76" r="0.36" fill="#ffffff" opacity="0.3"/><circle cx="608.32" cy="108.21" r="1.05" fill="#dbe4ff" opacity="0.55"/><circle cx="707.17" cy="9.71" r="0.35" fill="#dbe4ff" opacity="0.52"/><circle class="s3" cx="631.57" cy="75.35" r="1.51" fill="#dbe4ff"/><circle cx="815.72" cy="70.51" r="0.39" fill="#dbe4ff" opacity="0.59"/><circle cx="689.95" cy="199.25" r="0.5" fill="#dbe4ff" opacity="0.46"/><circle class="s1" cx="660.45" cy="68.9" r="0.47" fill="#dbe4ff"/><circle cx="333" cy="14.61" r="0.66" fill="#ddd6fe" opacity="0.44"/><circle class="s3" cx="615.83" cy="92.86" r="0.38" fill="#a5f3fc"/><circle class="s2" cx="484.9" cy="258.26" r="0.55" fill="#dbe4ff"/><circle class="s2" cx="2.69" cy="187.67" r="0.35" fill="#a5f3fc"/><circle class="s1" cx="223.85" cy="141.03" r="1.19" fill="#dbe4ff"/><circle cx="374.58" cy="128.73" r="0.76" fill="#ddd6fe" opacity="0.58"/><circle class="s1" cx="342.21" cy="204.58" r="0.73" fill="#fde68a"/><circle class="s1" cx="550.75" cy="229.92" r="0.55" fill="#fde68a"/><circle cx="48.61" cy="54.38" r="0.39" fill="#a5f3fc" opacity="0.58"/><circle class="s1" cx="342.14" cy="265.71" r="0.42" fill="#a5f3fc"/><circle class="s1" cx="90.7" cy="91.63" r="0.67" fill="#dbe4ff"/><circle class="s2" cx="56.79" cy="51.13" r="1.25" fill="#ddd6fe"/><circle cx="755.77" cy="123.88" r="0.62" fill="#dbe4ff" opacity="0.32"/><circle cx="245.75" cy="184.34" r="0.56" fill="#a5f3fc" opacity="0.62"/><circle class="s2" cx="587.72" cy="118.19" r="1.15" fill="#a5f3fc"/><circle class="s2" cx="675.36" cy="73.67" r="0.45" fill="#ffffff"/><circle class="s2" cx="740.78" cy="59.48" r="0.69" fill="#fde68a"/><circle cx="589.17" cy="81.01" r="0.93" fill="#fde68a" opacity="0.53"/><circle class="s3" cx="748.38" cy="193.03" r="1" fill="#ffffff"/><circle cx="477.39" cy="31.68" r="0.99" fill="#ddd6fe" opacity="0.67"/><circle class="s1" cx="123.63" cy="171.06" r="0.67" fill="#fde68a"/><circle class="s1" cx="483.02" cy="33.95" r="1.17" fill="#dbe4ff"/><circle class="s1" cx="760.83" cy="222.44" r="0.68" fill="#ffffff"/><circle class="s3" cx="543.31" cy="37.34" r="0.64" fill="#fde68a"/><circle class="s1" cx="560.3" cy="215.39" r="0.73" fill="#dbe4ff"/><circle class="s3" cx="147.56" cy="119.57" r="0.49" fill="#dbe4ff"/><circle class="s3" cx="525.34" cy="156.68" r="0.39" fill="#dbe4ff"/><circle cx="520.08" cy="160.22" r="1.26" fill="#ffffff" opacity="0.39"/><circle cx="74.74" cy="239.8" r="0.78" fill="#ffffff" opacity="0.26"/>
+  
+  <text x="32" y="48" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#22d3ee" letter-spacing="1.5">01</text>
+  <text x="64" y="48" font-size="16" font-weight="700" fill="#eceeff" letter-spacing="2.2">WHAT I BUILD</text>
+  <text x="808" y="48" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#5d668f">agents · evals · products</text>
+  <rect x="32" y="64" width="776" height="1" fill="url(#hr)"/>
+  <rect class="scan" x="32" y="63.5" width="70" height="2" rx="1" fill="url(#scan)"/>
+  <g transform="translate(32 84)">
+    <rect width="248" height="164" rx="14" fill="#0e1230" fill-opacity=".74" stroke="#232b5c"/>
+    <rect x="16" y="0" width="168" height="2" rx="1" fill="url(#top0)"/>
+    <rect x="16" y="18" width="38" height="38" rx="10" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".3"/>
+    <g transform="translate(16 18)">
+    <path d="M9 19 27 9M9 19l18 10M27 9v20" stroke="#22d3ee" stroke-width="1.3" opacity=".55" fill="none"/>
+    <circle cx="9" cy="19" r="3.8" fill="#22d3ee"/>
+    <circle cx="27" cy="9" r="3.2" fill="#0e1230" stroke="#22d3ee" stroke-width="1.4"/>
+    <circle cx="27" cy="29" r="3.2" fill="#0e1230" stroke="#22d3ee" stroke-width="1.4"/>
+    <circle r="1.9" fill="#fff"><animateMotion dur="3s" repeatCount="indefinite" path="M9 19 27 9V29Z"/></circle></g>
+    <text x="66" y="34" font-size="15" font-weight="700" fill="#eceeff">AI Engineering</text>
+    <text x="66" y="51" font-size="11.5" fill="#22d3ee">Agents that do real work</text>
+    <rect x="19" y="78" width="5" height="5" rx="1" transform="rotate(45 21.5 80.5)" fill="#22d3ee" opacity=".8"/><text x="33" y="85" font-size="12" fill="#9aa3cc">Multi-agent graphs in LangGraph</text><rect x="19" y="98" width="5" height="5" rx="1" transform="rotate(45 21.5 100.5)" fill="#22d3ee" opacity=".8"/><text x="33" y="105" font-size="12" fill="#9aa3cc">Hybrid-search RAG, cited answers</text><rect x="19" y="118" width="5" height="5" rx="1" transform="rotate(45 21.5 120.5)" fill="#22d3ee" opacity=".8"/><text x="33" y="125" font-size="12" fill="#9aa3cc">Tool calling, MCP, human review</text><rect x="19" y="138" width="5" height="5" rx="1" transform="rotate(45 21.5 140.5)" fill="#22d3ee" opacity=".8"/><text x="33" y="145" font-size="12" fill="#9aa3cc">Speech, OCR and vision pipelines</text>
+  </g>
+  <g transform="translate(296 84)">
+    <rect width="248" height="164" rx="14" fill="#0e1230" fill-opacity=".74" stroke="#232b5c"/>
+    <rect x="16" y="0" width="168" height="2" rx="1" fill="url(#top1)"/>
+    <rect x="16" y="18" width="38" height="38" rx="10" fill="#a78bfa" fill-opacity=".1" stroke="#a78bfa" stroke-opacity=".3"/>
+    <g transform="translate(16 18)">
+    <path d="M4 30h30" stroke="#a78bfa" stroke-width="1" opacity=".35"/>
+    <path class="pulse" d="M4 22h6l3-10 5 16 4-11 2.5 5H34" fill="none" stroke="#a78bfa" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="76"/>
+    <circle cx="30.5" cy="9" r="5" fill="#0e1230" stroke="#a78bfa" stroke-width="1.3"/>
+    <path d="M28.2 9.1l1.6 1.6 3-3.2" fill="none" stroke="#fff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="66" y="34" font-size="15" font-weight="700" fill="#eceeff">LLMOps &amp; Evals</text>
+    <text x="66" y="51" font-size="11.5" fill="#a78bfa">Keeping models honest</text>
+    <rect x="19" y="78" width="5" height="5" rx="1" transform="rotate(45 21.5 80.5)" fill="#a78bfa" opacity=".8"/><text x="33" y="85" font-size="12" fill="#9aa3cc">Eval harnesses, regression suites</text><rect x="19" y="98" width="5" height="5" rx="1" transform="rotate(45 21.5 100.5)" fill="#a78bfa" opacity=".8"/><text x="33" y="105" font-size="12" fill="#9aa3cc">OpenTelemetry traces per step</text><rect x="19" y="118" width="5" height="5" rx="1" transform="rotate(45 21.5 120.5)" fill="#a78bfa" opacity=".8"/><text x="33" y="125" font-size="12" fill="#9aa3cc">Structured output + validation</text><rect x="19" y="138" width="5" height="5" rx="1" transform="rotate(45 21.5 140.5)" fill="#a78bfa" opacity=".8"/><text x="33" y="145" font-size="12" fill="#9aa3cc">Any provider, hosted or local</text>
+  </g>
+  <g transform="translate(560 84)">
+    <rect width="248" height="164" rx="14" fill="#0e1230" fill-opacity=".74" stroke="#232b5c"/>
+    <rect x="16" y="0" width="168" height="2" rx="1" fill="url(#top2)"/>
+    <rect x="16" y="18" width="38" height="38" rx="10" fill="#f472b6" fill-opacity=".1" stroke="#f472b6" stroke-opacity=".3"/>
+    <g transform="translate(16 18)">
+    <path class="l3" d="M19 18l13 6-13 6-13-6z" fill="#f472b6" opacity=".28"/>
+    <path class="l2" d="M19 12l13 6-13 6-13-6z" fill="#f472b6" opacity=".55"/>
+    <path class="l1" d="M19 6l13 6-13 6-13-6z" fill="#f472b6"/></g>
+    <text x="66" y="34" font-size="15" font-weight="700" fill="#eceeff">Full-Stack &amp; Desktop</text>
+    <text x="66" y="51" font-size="11.5" fill="#f472b6">The product around the model</text>
+    <rect x="19" y="78" width="5" height="5" rx="1" transform="rotate(45 21.5 80.5)" fill="#f472b6" opacity=".8"/><text x="33" y="85" font-size="12" fill="#9aa3cc">Next.js, React, TypeScript UIs</text><rect x="19" y="98" width="5" height="5" rx="1" transform="rotate(45 21.5 100.5)" fill="#f472b6" opacity=".8"/><text x="33" y="105" font-size="12" fill="#9aa3cc">Node + FastAPI, Postgres, Redis</text><rect x="19" y="118" width="5" height="5" rx="1" transform="rotate(45 21.5 120.5)" fill="#f472b6" opacity=".8"/><text x="33" y="125" font-size="12" fill="#9aa3cc">Electron, Tauri, Rust, Swift</text><rect x="19" y="138" width="5" height="5" rx="1" transform="rotate(45 21.5 140.5)" fill="#f472b6" opacity=".8"/><text x="33" y="145" font-size="12" fill="#9aa3cc">Docker, CI/CD, cloud deploys</text>
+  </g>
+</g>
+<rect x=".75" y=".75" width="838.5" height="274.5" rx="17.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+</svg>

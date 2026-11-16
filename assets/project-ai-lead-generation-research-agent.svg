@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="410" height="190" viewBox="0 0 410 190" role="img" aria-label="Lead Research Agent: Supervisor multi-agent pipeline for B2B lead research: multi-source search, LLM scoring and enrichment, then human review before any outreach." font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+<title>Lead Research Agent: Supervisor multi-agent pipeline for B2B lead research: multi-source search, LLM scoring and enrichment, then human review before any outreach.</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060817"/><stop offset="1" stop-color="#0b0e25"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".55"/><stop offset=".45" stop-color="#a78bfa" stop-opacity=".28"/><stop offset="1" stop-color="#f472b6" stop-opacity=".5"/></linearGradient>
+  <linearGradient id="hr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity=".5"/><stop offset=".5" stop-color="#a78bfa" stop-opacity=".22"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></linearGradient>
+  <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+  <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <radialGradient id="nv"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.19"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+  <radialGradient id="nc"><stop offset="0" stop-color="#0891b2" stop-opacity="0.17"/><stop offset="1" stop-color="#0891b2" stop-opacity="0"/></radialGradient>
+  <radialGradient id="np"><stop offset="0" stop-color="#db2777" stop-opacity="0.11"/><stop offset="1" stop-color="#db2777" stop-opacity="0"/></radialGradient>
+  <clipPath id="clip"><rect width="410" height="190" rx="18"/></clipPath>
+  
+  <linearGradient id="cm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#34d399" stop-opacity="0"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+  <radialGradient id="corner"><stop offset="0" stop-color="#34d399" stop-opacity=".26"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+.s1{animation:tw 3.4s ease-in-out infinite}
+.s2{animation:tw 4.9s ease-in-out -1.7s infinite}
+.s3{animation:tw 6.3s ease-in-out -3.1s infinite}
+@keyframes tw{0%,100%{opacity:.18}50%{opacity:1}}
+.neb{animation:drift 26s ease-in-out infinite alternate}
+.neb2{animation:drift 34s ease-in-out -9s infinite alternate-reverse}
+@keyframes drift{from{transform:translate(-18px,-8px)}to{transform:translate(22px,12px)}}
+.scan{animation:scan 7s cubic-bezier(.45,0,.55,1) infinite}
+@keyframes scan{0%{transform:translateX(0);opacity:0}8%{opacity:1}92%{opacity:1}100%{transform:translateX(var(--scan,276px));opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.comet{animation:comet 5.5s cubic-bezier(.45,0,.55,1) infinite}
+@keyframes comet{0%{transform:translateX(-90px);opacity:0}12%{opacity:1}88%{opacity:1}100%{transform:translateX(410px);opacity:0}}
+.go{animation:go 2.6s ease-in-out infinite}
+@keyframes go{0%,100%{transform:translate(0,0)}50%{transform:translate(2px,-2px)}}
+</style>
+<g clip-path="url(#clip)">
+  <rect width="410" height="190" fill="url(#bg)"/>
+  <ellipse class="neb" cx="336.2" cy="19" rx="147.6" ry="150" fill="url(#nv)"/>
+  <ellipse class="neb2" cx="32.8" cy="180.5" rx="139.4" ry="140" fill="url(#nc)"/>
+  <ellipse class="neb" cx="205" cy="199.5" rx="123" ry="110" fill="url(#np)"/>
+  <circle cx="181.65" cy="3.85" r="1.13" fill="#dbe4ff" opacity="0.35"/><circle cx="179.71" cy="74.47" r="1" fill="#ffffff" opacity="0.65"/><circle cx="8.81" cy="147.37" r="0.84" fill="#dbe4ff" opacity="0.7"/><circle class="s2" cx="177.29" cy="45.24" r="0.96" fill="#dbe4ff"/><circle cx="405.54" cy="33.68" r="0.85" fill="#dbe4ff" opacity="0.69"/><circle cx="154.81" cy="145.61" r="0.49" fill="#dbe4ff" opacity="0.32"/><circle cx="284.5" cy="110.76" r="0.36" fill="#dbe4ff" opacity="0.35"/><circle class="s3" cx="157.38" cy="80.49" r="0.53" fill="#ffffff"/><circle class="s1" cx="241.89" cy="93.07" r="1.09" fill="#dbe4ff"/><circle class="s2" cx="400.67" cy="21.84" r="0.41" fill="#fde68a"/><circle class="s2" cx="298.58" cy="5.72" r="1.42" fill="#ffffff"/><circle class="s1" cx="354.03" cy="177.46" r="1.41" fill="#fde68a"/><circle cx="200.1" cy="174.15" r="0.7" fill="#ddd6fe" opacity="0.6"/><circle class="s3" cx="210.48" cy="133.4" r="0.6" fill="#fde68a"/><circle class="s2" cx="86.88" cy="9.43" r="0.4" fill="#a5f3fc"/><circle cx="395.14" cy="48.34" r="0.35" fill="#fde68a" opacity="0.63"/>
+  
+  <circle cx="390" cy="14" r="130" fill="url(#corner)"/>
+  <rect class="comet" x="0" y="0" width="90" height="2.5" fill="url(#cm)"/>
+  <circle cx="29" cy="30.5" r="4.5" fill="#769fc2"/><text x="40" y="34.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#9aa3cc">Python</text>
+  
+  <text x="24" y="70" font-size="18.5" font-weight="700" fill="#eceeff">Lead Research Agent</text>
+  <text x="24" y="94" font-size="12.5" fill="#9aa3cc">Supervisor multi-agent pipeline for B2B lead research:</text><text x="24" y="112" font-size="12.5" fill="#9aa3cc">multi-source search, LLM scoring and enrichment, then</text><text x="24" y="130" font-size="12.5" fill="#9aa3cc">human review before any outreach.</text>
+  <rect x="24" y="144" width="77.4" height="22" rx="11" fill="#34d399" fill-opacity=".08" stroke="#34d399" stroke-opacity=".38"/><text x="62.7" y="159" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#eceeff" opacity=".9">LangGraph</text><rect x="108.4" y="144" width="37.8" height="22" rx="11" fill="#34d399" fill-opacity=".08" stroke="#34d399" stroke-opacity=".38"/><text x="127.3" y="159" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#eceeff" opacity=".9">RAG</text><rect x="153.2" y="144" width="57.6" height="22" rx="11" fill="#34d399" fill-opacity=".08" stroke="#34d399" stroke-opacity=".38"/><text x="182" y="159" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#eceeff" opacity=".9">Celery</text>
+  <g class="go"><path d="M372 162l9-9m-7 0h7v7" fill="none" stroke="#34d399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+<rect x=".75" y=".75" width="408.5" height="188.5" rx="17.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+</svg>

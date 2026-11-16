@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="410" height="190" viewBox="0 0 410 190" role="img" aria-label="Claude Profile Switcher: Run several Claude desktop accounts side by side on Windows, macOS and Linux. One click to add or switch, with sign-ins routed to the right account." font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+<title>Claude Profile Switcher: Run several Claude desktop accounts side by side on Windows, macOS and Linux. One click to add or switch, with sign-ins routed to the right account.</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060817"/><stop offset="1" stop-color="#0b0e25"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".55"/><stop offset=".45" stop-color="#a78bfa" stop-opacity=".28"/><stop offset="1" stop-color="#f472b6" stop-opacity=".5"/></linearGradient>
+  <linearGradient id="hr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity=".5"/><stop offset=".5" stop-color="#a78bfa" stop-opacity=".22"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></linearGradient>
+  <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+  <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <radialGradient id="nv"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.19"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+  <radialGradient id="nc"><stop offset="0" stop-color="#0891b2" stop-opacity="0.17"/><stop offset="1" stop-color="#0891b2" stop-opacity="0"/></radialGradient>
+  <radialGradient id="np"><stop offset="0" stop-color="#db2777" stop-opacity="0.11"/><stop offset="1" stop-color="#db2777" stop-opacity="0"/></radialGradient>
+  <clipPath id="clip"><rect width="410" height="190" rx="18"/></clipPath>
+  
+  <linearGradient id="cm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f472b6" stop-opacity="0"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <radialGradient id="corner"><stop offset="0" stop-color="#f472b6" stop-opacity=".26"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+.s1{animation:tw 3.4s ease-in-out infinite}
+.s2{animation:tw 4.9s ease-in-out -1.7s infinite}
+.s3{animation:tw 6.3s ease-in-out -3.1s infinite}
+@keyframes tw{0%,100%{opacity:.18}50%{opacity:1}}
+.neb{animation:drift 26s ease-in-out infinite alternate}
+.neb2{animation:drift 34s ease-in-out -9s infinite alternate-reverse}
+@keyframes drift{from{transform:translate(-18px,-8px)}to{transform:translate(22px,12px)}}
+.scan{animation:scan 7s cubic-bezier(.45,0,.55,1) infinite}
+@keyframes scan{0%{transform:translateX(0);opacity:0}8%{opacity:1}92%{opacity:1}100%{transform:translateX(var(--scan,276px));opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.comet{animation:comet 5.5s cubic-bezier(.45,0,.55,1) infinite}
+@keyframes comet{0%{transform:translateX(-90px);opacity:0}12%{opacity:1}88%{opacity:1}100%{transform:translateX(410px);opacity:0}}
+.go{animation:go 2.6s ease-in-out infinite}
+@keyframes go{0%,100%{transform:translate(0,0)}50%{transform:translate(2px,-2px)}}
+</style>
+<g clip-path="url(#clip)">
+  <rect width="410" height="190" fill="url(#bg)"/>
+  <ellipse class="neb" cx="336.2" cy="19" rx="147.6" ry="150" fill="url(#nv)"/>
+  <ellipse class="neb2" cx="32.8" cy="180.5" rx="139.4" ry="140" fill="url(#nc)"/>
+  <ellipse class="neb" cx="205" cy="199.5" rx="123" ry="110" fill="url(#np)"/>
+  <circle class="s1" cx="83.79" cy="59.82" r="0.62" fill="#ddd6fe"/><circle class="s1" cx="281.48" cy="2.64" r="0.61" fill="#dbe4ff"/><circle cx="258.88" cy="36.49" r="0.36" fill="#dbe4ff" opacity="0.68"/><circle class="s2" cx="22.09" cy="95.96" r="0.39" fill="#dbe4ff"/><circle class="s2" cx="231.23" cy="164.7" r="0.36" fill="#a5f3fc"/><circle class="s3" cx="96.56" cy="31.14" r="1.23" fill="#dbe4ff"/><circle class="s2" cx="401.51" cy="142.29" r="0.47" fill="#dbe4ff"/><circle class="s1" cx="57.14" cy="98.51" r="0.46" fill="#ddd6fe"/><circle cx="350.24" cy="153" r="0.35" fill="#a5f3fc" opacity="0.67"/><circle class="s2" cx="147.2" cy="121.81" r="0.97" fill="#ddd6fe"/><circle class="s2" cx="390.14" cy="41.22" r="0.36" fill="#dbe4ff"/><circle cx="84.35" cy="75.32" r="0.39" fill="#ddd6fe" opacity="0.45"/><circle class="s2" cx="176.52" cy="141.94" r="1.28" fill="#dbe4ff"/><circle cx="355.74" cy="90.18" r="0.97" fill="#dbe4ff" opacity="0.41"/><circle cx="354.69" cy="98.2" r="0.36" fill="#dbe4ff" opacity="0.46"/><circle cx="407.27" cy="22.93" r="0.9" fill="#dbe4ff" opacity="0.39"/>
+  
+  <circle cx="390" cy="14" r="130" fill="url(#corner)"/>
+  <rect class="comet" x="0" y="0" width="90" height="2.5" fill="url(#cm)"/>
+  <circle cx="29" cy="30.5" r="4.5" fill="#e8ebff"/><text x="40" y="34.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#9aa3cc">PowerShell</text>
+  <path transform="translate(352.2 23.5) scale(0.5833)" d="M12 2.6l2.75 5.9 6.45.8-4.75 4.45 1.25 6.4L12 17l-5.7 3.15 1.25-6.4L2.8 9.3l6.45-.8z" fill="#fbbf24"/><text x="386" y="35" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="700" fill="#fbbf24">43</text>
+  <text x="24" y="70" font-size="18.5" font-weight="700" fill="#eceeff">Claude Profile Switcher</text>
+  <text x="24" y="94" font-size="12.5" fill="#9aa3cc">Run several Claude desktop accounts side by side on</text><text x="24" y="112" font-size="12.5" fill="#9aa3cc">Windows, macOS and Linux. One click to add or switch,</text><text x="24" y="130" font-size="12.5" fill="#9aa3cc">with sign-ins routed to the right account.</text>
+  <rect x="24" y="144" width="84" height="22" rx="11" fill="#f472b6" fill-opacity=".08" stroke="#f472b6" stroke-opacity=".38"/><text x="66" y="159" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#eceeff" opacity=".9">PowerShell</text><rect x="115" y="144" width="51" height="22" rx="11" fill="#f472b6" fill-opacity=".08" stroke="#f472b6" stroke-opacity=".38"/><text x="140.5" y="159" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#eceeff" opacity=".9">Swift</text><rect x="173" y="144" width="57.6" height="22" rx="11" fill="#f472b6" fill-opacity=".08" stroke="#f472b6" stroke-opacity=".38"/><text x="201.8" y="159" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#eceeff" opacity=".9">Python</text>
+  <g class="go"><path d="M372 162l9-9m-7 0h7v7" fill="none" stroke="#f472b6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+<rect x=".75" y=".75" width="408.5" height="188.5" rx="17.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+</svg>
