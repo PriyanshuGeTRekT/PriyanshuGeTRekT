@@ -16,7 +16,7 @@ export default {
 
   links: [
     { id: 'linkedin', label: 'LinkedIn', url: 'https://www.linkedin.com/in/priyanshuyadav98/', glyph: 'in' },
-    { id: 'website', label: 'namanpuja.com', url: 'https://www.namanpuja.com/', glyph: 'globe' },
+    { id: 'website', label: 'priyanshuyadav.com', url: 'https://priyanshuyadav.com/', glyph: 'globe' },
     { id: 'repos', label: 'All repositories', url: 'https://github.com/PriyanshuGeTRekT?tab=repositories', icon: 'github' },
   ],
 

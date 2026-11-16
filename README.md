@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshuyadav98/"><img src="assets/btn-linkedin.svg" height="42" alt="LinkedIn"></a>
-  <a href="https://www.namanpuja.com/"><img src="assets/btn-website.svg" height="42" alt="namanpuja.com"></a>
+  <a href="https://priyanshuyadav.com/"><img src="assets/btn-website.svg" height="42" alt="priyanshuyadav.com"></a>
   <a href="https://github.com/PriyanshuGeTRekT?tab=repositories"><img src="assets/btn-repos.svg" height="42" alt="All repositories"></a>
 </p>
 
@@ -31,7 +31,7 @@
   <a href="https://github.com/PriyanshuGeTRekT/frontend-namanpuja"><img src="assets/project-frontend-namanpuja.svg" width="49%" alt="namanpuja.com: Production booking platform for Vedic pujas: a Next.js storefront, an Express + TypeScript API, an admin console and a CRM that syncs every booking."></a>
 </p>
 
-<img src="assets/stats.svg" width="100%" alt="GitHub activity: 1520 contributions in the last 12 months, 162 active days, longest streak 21 days, 58 stars earned.">
+<img src="assets/stats.svg" width="100%" alt="GitHub activity: 1524 contributions in the last 12 months, 163 active days, longest streak 21 days, 58 stars earned.">
 
 <img src="assets/footer.svg" width="100%" alt="Building systems, not just projects.">
 
@@ -72,7 +72,7 @@ I build LLM agents that cite their sources, the evals and tracing that keep them
 **Links**
 
 - [LinkedIn](https://www.linkedin.com/in/priyanshuyadav98/)
-- [namanpuja.com](https://www.namanpuja.com/)
+- [priyanshuyadav.com](https://priyanshuyadav.com/)
 - [All repositories](https://github.com/PriyanshuGeTRekT?tab=repositories)
 
 </details>
