@@ -31,7 +31,7 @@
   <a href="https://github.com/PriyanshuGeTRekT/frontend-namanpuja"><img src="assets/project-frontend-namanpuja.svg" width="49%" alt="namanpuja.com: Production booking platform for Vedic pujas: a Next.js storefront, an Express + TypeScript API, an admin console and a CRM that syncs every booking."></a>
 </p>
 
-<img src="assets/stats.svg" width="100%" alt="GitHub activity: 1576 contributions in the last 12 months, 167 active days, longest streak 21 days, 63 stars earned.">
+<img src="assets/stats.svg" width="100%" alt="GitHub activity: 1582 contributions in the last 12 months, 168 active days, longest streak 21 days, 64 stars earned.">
 
 <img src="assets/footer.svg" width="100%" alt="Building systems, not just projects.">
 
